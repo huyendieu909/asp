@@ -26,27 +26,32 @@
         <td>Giới tính:</td>
         <td>
             Nam <input type="radio" checked="checked" id="radNam" name="gen" value="nam" />
-            <input type="radio" id="radNu" name="gen" value="nu" />
+            Nữ <input type="radio" id="radNu" name="gen" value="nu" />
         </td>
     </tr>
     <tr>
         <td>Chức vụ:</td>
         <td>
-            <asp:DropDownList ID="ddlChucVu" AutoPostBack="true" runat="server">
-                <asp:ListItem Text="Trưởng phòng" Value="TruongPhong" Selected="True"></asp:ListItem>
-                <asp:ListItem Text="Phó trưởng phòng" Value="PhoTruongPhong" />
-                <asp:ListItem Text="Nhân viên" Value="NhanVien"></asp:ListItem>
-            </asp:DropDownList>
+            <select name="chucvu">
+                <option value="truongphong">Trưởng phòng</option>
+                <option value="nhanvien">Nhân viên</option>
+            </select>
         </td>
     </tr>
     <tr>
         <td>Ngoại ngữ:</td>
         <td>
-            <asp:CheckBoxList ID="cblNgoaiNgu" RepeatDirection="Horizontal" runat="server">
-                <asp:ListItem Selected="True" Value="anh">Anh</asp:ListItem>
-                <asp:ListItem Value="phap">Pháp</asp:ListItem>
-                <asp:ListItem Value="nga">Nga</asp:ListItem>
-            </asp:CheckBoxList>
+            <input type="checkbox" id="cbAnh" /> Anh
+            <input type="checkbox" id="cbPhap" /> Pháp
+            <input type="checkbox" id="cbNga" /> Nga
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div style="display: flex; justify-content:center">
+                <button type="submit" style="margin-right: 20px">Lưu</button>
+                <button type="reset">Xóa</button>
+            </div>
         </td>
     </tr>
 </table>
