@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\k7\\asp\\bai4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|f:\\k7\\asp\\bai4.2\\bai4.2\\views\\tinhtiendien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|solutionrelative:bai4.2\\views\\tinhtiendien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|f:\\k7\\asp\\bai4.2\\bai4.2\\controllers\\tinhtiendiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|solutionrelative:bai4.2\\controllers\\tinhtiendiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|f:\\k7\\asp\\bai4.2\\bai4.2\\views\\tinhtiendien\\tinhtien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|solutionrelative:bai4.2\\views\\tinhtiendien\\tinhtien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|f:\\k7\\asp\\bai4.2\\bai4.2\\models\\tiendien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C78B4-9FA0-4AAE-854C-29D8EC9E1E78}|bai4.2\\bai4.2.csproj|solutionrelative:bai4.2\\models\\tiendien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TinhTien.cshtml",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4.2\\bai4.2\\Views\\TinhTienDien\\TinhTien.cshtml",
+              "RelativeDocumentMoniker": "bai4.2\\Views\\TinhTienDien\\TinhTien.cshtml",
+              "ToolTip": "F:\\k7\\asp\\bai4.2\\bai4.2\\Views\\TinhTienDien\\TinhTien.cshtml*",
+              "RelativeToolTip": "bai4.2\\Views\\TinhTienDien\\TinhTien.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:12:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TienDien.cs",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4.2\\bai4.2\\Models\\TienDien.cs",
+              "RelativeDocumentMoniker": "bai4.2\\Models\\TienDien.cs",
+              "ToolTip": "F:\\k7\\asp\\bai4.2\\bai4.2\\Models\\TienDien.cs",
+              "RelativeToolTip": "bai4.2\\Models\\TienDien.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:44:39.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4.2\\bai4.2\\Views\\TinhTienDien\\Index.cshtml",
+              "RelativeDocumentMoniker": "bai4.2\\Views\\TinhTienDien\\Index.cshtml",
+              "ToolTip": "F:\\k7\\asp\\bai4.2\\bai4.2\\Views\\TinhTienDien\\Index.cshtml",
+              "RelativeToolTip": "bai4.2\\Views\\TinhTienDien\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T08:19:17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinhTienDienController.cs",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4.2\\bai4.2\\Controllers\\TinhTienDienController.cs",
+              "RelativeDocumentMoniker": "bai4.2\\Controllers\\TinhTienDienController.cs",
+              "ToolTip": "F:\\k7\\asp\\bai4.2\\bai4.2\\Controllers\\TinhTienDienController.cs*",
+              "RelativeToolTip": "bai4.2\\Controllers\\TinhTienDienController.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:18:24.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

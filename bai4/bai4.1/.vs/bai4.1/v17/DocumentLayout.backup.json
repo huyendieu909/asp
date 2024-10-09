@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\k7\\asp\\bai4\\bai4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2FEF84-7CD3-40D0-9451-84E8FF3209BD}|bai4.1\\bai4.1.csproj|f:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\views\\xuly\\input.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE2FEF84-7CD3-40D0-9451-84E8FF3209BD}|bai4.1\\bai4.1.csproj|solutionrelative:bai4.1\\views\\xuly\\input.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2FEF84-7CD3-40D0-9451-84E8FF3209BD}|bai4.1\\bai4.1.csproj|f:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2FEF84-7CD3-40D0-9451-84E8FF3209BD}|bai4.1\\bai4.1.csproj|solutionrelative:bai4.1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2FEF84-7CD3-40D0-9451-84E8FF3209BD}|bai4.1\\bai4.1.csproj|f:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\controllers\\xulycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2FEF84-7CD3-40D0-9451-84E8FF3209BD}|bai4.1\\bai4.1.csproj|solutionrelative:bai4.1\\controllers\\xulycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "bai4.1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "F:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "bai4.1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:04:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.cshtml",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\Views\\XuLy\\Input.cshtml",
+              "RelativeDocumentMoniker": "bai4.1\\Views\\XuLy\\Input.cshtml",
+              "ToolTip": "F:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\Views\\XuLy\\Input.cshtml*",
+              "RelativeToolTip": "bai4.1\\Views\\XuLy\\Input.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:04:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XuLyController.cs",
+              "DocumentMoniker": "F:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\Controllers\\XuLyController.cs",
+              "RelativeDocumentMoniker": "bai4.1\\Controllers\\XuLyController.cs",
+              "ToolTip": "F:\\k7\\asp\\bai4\\bai4.1\\bai4.1\\Controllers\\XuLyController.cs",
+              "RelativeToolTip": "bai4.1\\Controllers\\XuLyController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:02:52.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

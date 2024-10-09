@@ -1,0 +1,17 @@
+﻿@model bai5._2.Models.MailInfo 
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Send mail</h2>
+<form method="post" enctype="multipart/form-data" action="/Mail/Index">
+    <b>From</b> <br /> <input type="text" name="From" /> <br />
+    <b>Password</b> <br /> <input type="password" name="Password" /> <br />
+    <b>To</b> <br /> <input type="text" name="To" /> <br />
+    <b>Subject</b> <br /> <input type="text" name="Subject" /> <br />
+    <b>Body</b> <br /> <textarea rows="5" name="Body" cols="30"></textarea> <br />
+    <input type="submit" name="send" value="Send" />
+</form>
+@ViewBag.result
+
+

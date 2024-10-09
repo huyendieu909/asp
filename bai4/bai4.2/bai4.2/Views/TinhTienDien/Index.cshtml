@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    td {
+        border: 1px solid black;
+    }
+</style>
+<h2>Tính tiền điện</h2>
+<form action="TinhTien" method="post">
+    <table>
+        <tr>
+            <td colspan="3" style="text-align:center; font-weight:bold; padding-bottom: 20px">Tính tiền điện</td>
+        </tr>
+        <tr>
+            <td>
+                <label>Họ tên chủ hộ: </label>
+            </td>
+            <td style="padding: 8px"><input type="text" name="hoten"/></td>
+            <td width="200px" style="padding-left: 15px"><input type="checkbox" name="uutien"/>Hộ ưu tiên</td>
+        </tr>
+        <tr>
+            <td><label>Loại điện tiêu thụ</label></td>
+            <td colspan="2"><select name="dlLoaiDienTieuThu">
+                    <option value="sinhhoat">Sinh hoạt</option>
+                    <option value="kinhdoanh">Kinh doanh</option>
+                    <option value="sanxuat">Sản xuất</option>
+                </select></td>
+        </tr>
+        <tr>
+            <td><label>Vào chỉ số cũ:</label></td>
+            <td colspan="2" style="padding: 8px"><input type="text" name="chisocu"/> KW</td>
+        </tr>
+        <tr>
+            <td><label>Vào chỉ số mới:</label></td>
+            <td colspan="2" style="padding: 8px"><input type="text" name="chisomoi"/> KW</td>
+        </tr>
+        <tr>
+            <td colspan="3" >
+                <div style="width: 100%; display:flex; justify-content: center">
+                    <input type="submit" name="tinh" value="Tính" />
+                </div>
+            </td>
+        </tr>
+    </table>
+</form>
+

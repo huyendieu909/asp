@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\project\\bai5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74FDFD-A7F2-4D79-96B4-2A8E77596CB5}|bai5.1\\bai5.1.csproj|F:\\project\\bai5.1\\bai5.1\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D74FDFD-A7F2-4D79-96B4-2A8E77596CB5}|bai5.1\\bai5.1.csproj|solutionrelative:bai5.1\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74FDFD-A7F2-4D79-96B4-2A8E77596CB5}|bai5.1\\bai5.1.csproj|F:\\project\\bai5.1\\bai5.1\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D74FDFD-A7F2-4D79-96B4-2A8E77596CB5}|bai5.1\\bai5.1.csproj|solutionrelative:bai5.1\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\project\\bai5.1\\bai5.1\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "bai5.1\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "F:\\project\\bai5.1\\bai5.1\\Views\\Staff\\Index.cshtml*",
+              "RelativeToolTip": "bai5.1\\Views\\Staff\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T03:33:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "F:\\project\\bai5.1\\bai5.1\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "bai5.1\\Controllers\\StaffController.cs",
+              "ToolTip": "F:\\project\\bai5.1\\bai5.1\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "bai5.1\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:10:21.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

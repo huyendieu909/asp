@@ -1,0 +1,27 @@
+﻿@model bai4._1.Models.PhepToan
+@{
+    ViewBag.Title = "Input";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tính</h2>
+<form >
+    <p>
+        nhập a: <input type="text" name="a" placeholder="0"/>
+    </p>
+    <p>
+        nhập b: <input type="text" name="b" placeholder="0"/>
+    </p>
+    <div>
+        <input type="radio" name="op" value="+" checked="checked"/> Cộng
+        <input type="radio" name="op" value="-" /> Trừ
+        <input type="radio" name="op" value="*" /> Nhân
+        <input type="radio" name="op" value="/" /> Chia
+    </div>
+    <div>
+        <input type="submit" name="sb" value="cal" />
+    </div>
+    <div>
+        @ViewBag.KetQua
+    </div>
+</form>
